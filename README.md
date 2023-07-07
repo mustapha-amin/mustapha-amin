@@ -3,7 +3,7 @@
  
  -🌱 I’m currently learning flutter
 
- -🔭 I’m currently working on Go Shop. It's an e-commerce app I'm developing with flutter and firebase. It also has an admin dashboard 
+ -🔭 I'm currently working on Cloud Vault. Its an app that allows users to store files  such as images, videos etc in the cloud
 
  -👯 I’m open to collaborations and internships 
 
