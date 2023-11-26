@@ -3,8 +3,7 @@
  
  -🌱 I’m currently learning flutter
 
- -🔭 I'm currently working on Cloud Vault. Its an app that allows users to store files  such as images, videos etc in the cloud
-
+ -🔭 I'm currently working on lots of things 🌚
  -👯 I’m open to collaborations and internships 
 
 
