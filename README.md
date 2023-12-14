@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there I'm Mustapha Amin 👋
 
  
  -🌱 I’m currently learning flutter
 
- -🔭 I'm currently working on lots of things 🌚
+ -🔭 I'm currently working on an X(formerly twitter) clone
 
  -👯 I’m open to collaborations and internships 
 
