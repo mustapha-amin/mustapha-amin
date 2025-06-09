@@ -1,4 +1,4 @@
-### Hi there I'm Mustapha Amin 👋
+### Hi there I'm Mustapha Amin 
 
  
  -🌱 I’m currently learning flutter
