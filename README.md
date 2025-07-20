@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Mustapha Amin 👋</h1>
 <p align="center">
-  <b>Flutter Developer | Mobile UI Enthusiast | Web3 enthuciast</b>
+  <b>Flutter Developer | Mobile UI Enthusiast | Web3 enthusiast</b>
 </p>
 
 ### 🚀 About Me
 I'm a passionate **Flutter developer** focused on building pixel-perfect, high-performance mobile apps. I love turning UI designs into functional, beautiful, and responsive applications. 
 
 - 🔧 Tools I use: Flutter and Dart
-- 👨‍💻 Always open to collaboration and open-source contributions
+- 👨‍💻 Always open to collaborations,jobs and open-source contributions
 - 🦀 Currently exploring rust
 
 ---
