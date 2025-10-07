@@ -18,4 +18,20 @@ I'm a passionate **Flutter developer** focused on building pixel-perfect, high-p
 - ✉️ [Email](mailto:mustaphaamin2003@gmail.com)
 - 🐦 [Twitter (X)](https://x.com/mustieyameen)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mustapha-amin&theme=cobalt&date_format=j%20M%5B%20Y%5D&background=000000&border=7536B2&stroke=9243DD&ring=89502D&fire=FF9554&currStreakNum=D280FF&sideNums=BC52FF&currStreakLabel=64EAE2&sideLabels=48A8A2&dates=A42EE5&show=prs_merged,prs_merged_percentage)
+### ⚡ GitHub Stats & Activity
+
+<p align="center">
+  <img height="180em" 
+       src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" 
+       alt="Mustapha's GitHub Stats" />
+       
+  <img height="180em" 
+       src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&hide=stars,issues&custom_title=Contribution%20Streak" 
+       alt="Mustapha's GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api/cards/stats?username=mustapha-amin&theme=cobalt" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api/cards/productive-time?username=mustapha-amin&theme=cobalt" alt="Commit Time" />
+</p>
+
