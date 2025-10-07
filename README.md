@@ -19,19 +19,8 @@ I'm a passionate **Flutter developer** focused on building pixel-perfect, high-p
 - 🐦 [Twitter (X)](https://x.com/mustieyameen)
 
 ### ⚡ GitHub Stats & Activity
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mustapha-amin&theme=dark)](https://git.io/streak-stats)
 
-<p align="center">
-  <img height="180em" 
-       src="https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" 
-       alt="Mustapha's GitHub Stats" />
-       
-  <img height="180em" 
-       src="https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&hide=stars,issues&custom_title=Contribution%20Streak" 
-       alt="Mustapha's GitHub Streak" />
-</p>
+![Anurag's GitHub stats](https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats-delta-six-30.vercel.app/api/cards/stats?username=mustapha-amin&theme=cobalt" alt="GitHub Profile Summary" />
-  <img src="https://github-readme-stats-delta-six-30.vercel.app/api/cards/productive-time?username=mustapha-amin&theme=cobalt" alt="Commit Time" />
-</p>
 
