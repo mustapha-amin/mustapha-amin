@@ -22,16 +22,16 @@ I'm a passionate **Flutter developer** focused on building pixel-perfect, high-p
 
 <p align="center">
   <img height="180em" 
-       src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" 
+       src="https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt" 
        alt="Mustapha's GitHub Stats" />
        
   <img height="180em" 
-       src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&hide=stars,issues&custom_title=Contribution%20Streak" 
+       src="https://github-readme-stats-delta-six-30.vercel.app/api?username=mustapha-amin&show_icons=true&count_private=true&include_all_commits=true&theme=cobalt&hide=stars,issues&custom_title=Contribution%20Streak" 
        alt="Mustapha's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api/cards/stats?username=mustapha-amin&theme=cobalt" alt="GitHub Profile Summary" />
-  <img src="https://github-readme-git-main-mustapha-amins-projects.vercel.app/api/cards/productive-time?username=mustapha-amin&theme=cobalt" alt="Commit Time" />
+  <img src="https://github-readme-stats-delta-six-30.vercel.app/api/cards/stats?username=mustapha-amin&theme=cobalt" alt="GitHub Profile Summary" />
+  <img src="https://github-readme-stats-delta-six-30.vercel.app/api/cards/productive-time?username=mustapha-amin&theme=cobalt" alt="Commit Time" />
 </p>
 
