@@ -8,7 +8,7 @@ I'm a passionate **Flutter developer** focused on building pixel-perfect, high-p
 
 - 🔧 Tools I use: Flutter and Dart
 - 👨‍💻 Always open to collaborations,jobs and open-source contributions
-- 🦀 Currently exploring rust
+- Currently exploring NodeJs
 
 ---
 
