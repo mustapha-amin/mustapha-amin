@@ -6,9 +6,8 @@
 ### 🚀 About Me
 I'm a passionate **Flutter developer** focused on building pixel-perfect, high-performance mobile apps. I love turning UI designs into functional, beautiful, and responsive applications. 
 
-- 🔧 Tools I use: Flutter and Dart
+- 🔧 Tools I use: Flutter, Dart, NodeJs, Express and Typescript
 - 👨‍💻 Always open to collaborations,jobs and open-source contributions
-- Currently exploring NodeJs
 
 ---
 
